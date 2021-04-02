@@ -1,0 +1,239 @@
+1. Please provide all the required fields
+Account created
+Error while creating account
+Account not found
+Error while fetching data
+armessage: 'خطأ أثناء جلب البيانات'
+//Error while updating bank
+Error while updating bank information
+File updated
+File removed successfully and updated
+Error while updating bank logo
+Error while activating bank
+Error while deactivating bank
+Account Suspended
+Cashflow section enabled
+Error while updating
+Cashflow section disabled
+
+Category exists
+Category created
+Error while creating category
+Error while creating subcategory
+Subcategory already exists
+Error while updating category
+Error while deleting category
+Error while deleting subcategory
+Package created
+Error while creating package
+Package not found
+Package cannot be deleted because it has already been utilized by some advertisers
+Package deleted successfully
+Error while deleting package
+Error while sending message
+Currently there are no users in Masoon
+Public message sent
+Bill alert sent
+No bills found
+Error while notifying
+Budget alert sent
+Budget not found
+Error while sending notification
+User marked "Active"
+Error while activating user
+User marked offline
+Please provide all the credentials to create a user
+Your passwords do not match
+Phone Number already exists
+Email already exists
+User created successfully
+Error while creating user
+Email already taken. Please select another email
+Phone Number already taken. Please select another Phone Number
+User details updated successfully
+Error while updating user details
+User details deleted successfully
+Error while deleting user
+Profile updated successfully
+Error while updating profile
+Email updated successfully
+Error while updating email
+Phone Number updated successfully
+Error while updating phone number
+User Suspended
+User Approved
+playedId required to enable Notifications
+Notifications enabled
+Error while enabling notifications
+Notifications disabled
+Error while disabling notifications
+Notification marked as Read
+Error while deleting transaction
+Transaction amount cannot exceed budget limit
+Transaction updated
+Error while updating transaction
+Please provide all required credentials
+Your budget balance is less thaen required amount
+Error while creating transaction
+Please add tag name
+Tag already exists
+Tag created
+Error while creating tag
+language changed successfully
+Error while saving rating
+Rating updated successfully
+Error while processing
+armessage: 'خطأ أثناء المعالجة'
+mail sent
+Error while replying
+Merchant already exists
+No income assigned for this month
+Income cannot be less than defined total budgets
+Income updated successfully
+Error while updating income
+Income added successfully
+Income already exists
+Error while adding income
+Message sent successfully
+You are exceeding your income limit, please add a budget lower then your income
+Please add your income first and then add budget
+Budget Created
+Error while creating budget
+Budget details updated
+Budget copied successfully
+Budget exists
+Add income first for this month
+Budget updated
+Budget already exists for this category
+Error while updating budget
+Bill deleted
+Error while deleting bill
+Bill details updated
+Error while updating bill
+Please provide all the required fields
+bill not found
+Bill Paid
+Bill Due
+Error while making payment
+Your budget balance is less than required bill amount
+Bill added successfully
+Error while creating bill
+Transaction created successfully
+Transaction deleted
+Transaction categorized successfully
+Bank Account Linked
+Error while linling bank
+Bank Already Linked
+Bank successfully deleted
+Error while deleting bank
+Please provide your phone number
+Please provide your first name
+Please provide your last name
+Please provide your email
+Please provide your password
+Please confirm your password
+Password do not match
+User already registered with this email
+User already registered with this phone number
+User registered successfully
+Error while registeration
+invalid Email format
+Please provide all required fields
+Invalid credentials
+You account is disabled by Masoon
+An Error occured while logging in please try again later
+Password updated successfully
+Error while updating password
+User deleted successfully
+There is no user with that email
+Email sent
+Please enter a different password from the last one
+Password changed successfully
+Incorrect current password
+File updated successfully
+Error while updating image
+Error while editing profile
+Email already taken, please select another different email
+Phone number already exists, please select another different Phone number
+Profile Updated
+Phone number already exists, please choose different one
+Please provide all required fields
+Email not found
+OTP does not match
+OTP sent successfully
+Error while sending OTP
+OTP expired
+Not found
+No record for this year
+Error while updating package
+Error while updating subcategory
+Your package has expired, Please renew your package and than request ad renewal
+Error while renewing ad
+Ad Suspended
+Ad not found
+Error while sespending ad
+Ad Blocked
+Ad viewed
+Ad clicked
+Impression added
+Error while approving package
+Package Expired
+Error while suspending package
+Package Assigned to User
+Error while creating user package
+Ad Created
+Error whole posting ad
+Not authorized to access this route
+You have enabled notifications from Masoon
+You have a new package request from Abdullah, please review and approve
+*Please review and approve
+You have a new package Ad from Abdullah
+Dear Abdullah your package is suspended by Masoon
+Dear Abdullah your package have been approved by Masoon, Now you can post Ads in Masoon
+Your package has been approved by Masoon
+Mason alert
+Dear Masoon advertiser your Ad has been blocked by Masoon
+Ad Expired
+Dear Masoon user, your ad has expired
+You have an ad renewal request from Abdullah
+Ad Renew Request
+Package expired
+You have a new enquiry email from Abdullah
+If you don't recognize or expect this email , you can always report suspicious behaviour to our team support.
+Notification
+Please verify your account first
+We have sent a verification link to this: Email
+Today is the last date for your bill of Internet
+Due date has passed for the the bill of Internet
+Welcome to Masoon
+Please click on this link to verify your acount
+Masoon Account Credentials
+You can login to masoon using email abc@example.com and password: 'example123' 
+Email already exists, please choose different email
+Masoon Notification
+Masoon Team
+Today is the last date for the payment of Internet Bill
+Your Internet Bill is overdue
+Notification sent
+Error while updating Cashflow
+Account deleted successfully
+Error while deleting bank account
+Bank activated
+Bank Suspended
+You have a new ad request from Abdullah, please review and approve
+New Ad request for MASOON
+Abdullah your package has been suspended by Masoon
+Package has been suspended
+Error while suspending package
+Your package have been expired, Please pay the charges to continue you advertisement
+Your have a new Ad renewal request from Abdullah
+Your Ad has been Approved by Masoon
+Ad Approved
+You have a new package upgrade request from Abdullah, please review and approve
+This budget do not have enough balance required for this bill
+You are exceeding your income limit, please add a budget lower than 5000
+You have a new Email from Masoon
+Merchant created
+Please link a bank to add your income
+
+*Dear (only for dear)

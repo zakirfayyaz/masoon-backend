@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "5f5224f4688bef39a028eceb"
+  },
+  "description": "to be continued",
+  "type": "Basic",
+  "duration": 5,
+  "views": 100,
+  "clicks": 100,
+  "amount": 15,
+  "__v": 0,
+  "ads_per_package": 10,
+  "arDescription": "يتبع"
+},{
+  "_id": {
+    "$oid": "5f5224fc688bef39a028ecec"
+  },
+  "description": "to be continued",
+  "type": "Standard",
+  "duration": 5,
+  "views": 100,
+  "clicks": 100,
+  "amount": 25,
+  "__v": 0,
+  "ads_per_package": 10,
+  "arDescription": "يتبع"
+},{
+  "_id": {
+    "$oid": "5f522501688bef39a028eced"
+  },
+  "description": "to be continued",
+  "type": "Premium",
+  "duration": 7,
+  "views": 100,
+  "clicks": 100,
+  "amount": 50,
+  "__v": 0,
+  "ads_per_package": 10,
+  "arDescription": "يتبع"
+}]
